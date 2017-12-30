@@ -14,5 +14,10 @@ def sum(a, b):
 c = sum(a, b)
 print("The value of c is ", c)
 
+def sub(a, b):
+    return (a-b)
+print("The value of d is ", sub(a, b))
+
 def mul(a, b):
     return (a*b)
+
