@@ -4,6 +4,7 @@
 print ("Life is short, you need Python!")
 a = 10
 b = 20
+print("THE Value Of C is ", c)
 
 def sum(a, b):
     return (a+b)
